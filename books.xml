@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+4. <book>
+5. <title>The Great Gatsby</title>
+6. <author>F. Scott Fitzgerald</author>
+7. <year>1925</year>
+8. <genre>Fiction</genre>
+9. </book>
+10. <book>
+11. <title>To Kill a Mockingbird</title>
+12. <author>Harper Lee</author>
+13. <year>1960</year>
+14. <genre>Fiction</genre>
+15. </book>
+16. <book>
+17. <title>1984</title>
+18. <author>George Orwell</author>
+19. <year>1949</year>
+20. <genre>Dystopian</genre>
+21. </book>
+22. </library>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+    
+
